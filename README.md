@@ -1,6 +1,6 @@
 **Hidden Flavors of Metabolic Risk: Clustering Patterns in Glucose, Lipids, and Adiposity**
 
-This project explores whether hidden subtypes of metabolic risk exist within the general population; beyond traditional diagnostic labels like "prediabetes." Using large scale public health data (NHANES 2021–2023), I will apply unsupervised learning to identify groups of individuals with distinct metabolic signatures, each potentially suggesting different intervention priorities (such as focusing on lipid management versus weight loss strategies).
+This project explores whether hidden subtypes of metabolic risk exist within the general population; beyond traditional diagnostic labels like "pre-diabetes." Using large scale public health data (NHANES 2021–2023), I will apply unsupervised learning to identify groups of individuals with distinct metabolic signatures, each potentially suggesting different intervention priorities (such as focusing on lipid management versus weight loss strategies).
 
 **Project Motivation**
 
