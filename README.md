@@ -183,7 +183,7 @@ Data derived from the National Health and Nutrition Examination Survey (NHANES),
 
 ## License
 
-Academic research project. Data usage complies with NHANES public use data policies.
+Data usage complies with NHANES public use data policies.
 
 ## Contact
 
