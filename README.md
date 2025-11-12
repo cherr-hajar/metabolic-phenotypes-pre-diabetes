@@ -120,8 +120,14 @@ bash
   - Stratified by age groups and sex
   - Partial correlations controlling for confounders
   - Ready for feature engineering and clustering
-*   [ ]  Create analysis-ready dataset
-*   [ ]  Data quality report
+    [x] Outlier detection and handling (`notebooks/explore_data/07_outlier_detection.ipynb`)
+  - 5 detection methods: IQR (1.5 & 3.0), Z score, MAD, Clinical thresholds
+  - Multivariate outliers via Mahalanobis distance
+  - Impact assessment on means and standard deviations
+  - Decision: Retain all data (outliers may be genuine subtypes)
+  - Strategy: Use robust scaling to minimize outlier influence
+  - Outlier flags saved for optional sensitivity analysis
+*   [ ]  Feature scaling and standardization
 *   [ ]  Demographic distribution analysis
 *   [ ]  Variable distribution plots
 
