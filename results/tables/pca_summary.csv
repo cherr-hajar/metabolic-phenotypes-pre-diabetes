@@ -1,0 +1,4 @@
+Component,Variance_Explained_%,Cumulative_Variance_%,Primary_Contributor
+PC1,70.36516985094994,70.36516985094994,Glucose
+PC2,21.72225882960731,92.08742868055725,Triglycerides
+PC3,7.912571319442748,100.0,Waist Circumference
