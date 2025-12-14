@@ -1,0 +1,9 @@
+glucose_status,trig_status,waist_status,Count,Percentage
+Elevated,Normal,Elevated,797,26.16
+Normal,Normal,Normal,652,21.4
+Normal,Normal,Elevated,532,17.46
+Elevated,Normal,Normal,395,12.96
+Elevated,Elevated,Elevated,381,12.5
+Normal,Elevated,Elevated,117,3.84
+Elevated,Elevated,Normal,104,3.41
+Normal,Elevated,Normal,69,2.26

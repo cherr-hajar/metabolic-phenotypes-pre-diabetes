@@ -1,0 +1,6 @@
+glucose_status,trig_status,Elevated,Normal,All
+Elevated,Elevated,381,104,485
+Elevated,Normal,797,395,1192
+Normal,Elevated,117,69,186
+Normal,Normal,532,652,1184
+All,,1827,1220,3047
